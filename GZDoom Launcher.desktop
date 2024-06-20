@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=python3 /home/daniel/code/GZDoom-Flatpak-Launcher/gzdoom_launcher.py
+Name=GZDoom Launcher 
